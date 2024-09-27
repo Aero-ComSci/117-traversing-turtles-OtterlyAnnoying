@@ -31,10 +31,11 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
-
+N/A
 ```
 #### Description Of The App 
-
+Creates a picture based on 6 turtles which move in a direction determined by the previous turtle, each with their own color and shape.
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
+<video controls src="20240927-0315-15.5487874.mp4" title="Video"></video>
